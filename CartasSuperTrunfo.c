@@ -48,7 +48,7 @@ int main(){
    printf("Quantidade de pontos turísticos: ");
    scanf("%d", &turisticos2);
 
-//Leitura Cartas
+//Impressão Cartas
    printf("\nCARTA 1:\n");
    printf("Estado: %c\n",estado1);
    printf("Código: %s\n",codigo1);
